@@ -16,7 +16,8 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+  background-image: url("../../pics/brick_bg.jpg");
+  background-size: cover;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -47,6 +48,9 @@ ul, ol, dl, figure,
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  background-color: $background-color;
+  margin: 0 auto;
+  width: 80%;
 }
 
 
@@ -107,7 +111,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $background-color;
   }
 
   &:hover {
