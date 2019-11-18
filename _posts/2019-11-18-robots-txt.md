@@ -19,7 +19,7 @@ It's also a small text file located in the root but this file provide readable i
 `Your title: Christoffer Nygren`
 
                             
-`Site: cn222tm@student.lnu.se, localhost:4000`
+`Site: cn222tm@student.lnu.se, christoffer-nygren.github.io`
 
                             
 `GitHub: christoffer-Nygren`
