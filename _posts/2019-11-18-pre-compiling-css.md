@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pre-compiling CSS"
-date:   2019-11-17 06:35:40 -0600
+date:   2019-11-18 06:35:40 -0600
 categories: exam questions
 comments: true
 ---
