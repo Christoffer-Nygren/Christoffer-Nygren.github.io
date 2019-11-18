@@ -238,6 +238,9 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  border-left: 2px solid $grey-color-light;
+  background: $background-color-gradient-strong;
+  padding: 15px;
 
   h2 {
     @include relative-font-size(2);
